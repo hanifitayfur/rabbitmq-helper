@@ -16,14 +16,26 @@ namespace _ConsumerApp
         static void Main(string[] args)
         {
             IRabbitConsumer consumer = new RabbitConsumer();
-            consumer.Subscribe(Queens.QueenTopic, Consumer_Received_Sample);
+
+            // Using first sample
+            consumer.Subscribe(Queens.QueenTopic, Consumer_Received_Sample_Body);
+
+            // Using second sample
+            //consumer.Subscribe(Queens.QueenTopic, Consumer_Received_Sample_EventHandler);
 
             Console.ReadKey();
         }
 
-        public static void Consumer_Received_Sample(byte[] body)
+        public static void Consumer_Received_Sample_Body(byte[] body)
         {
             var message = Encoding.UTF8.GetString(body);
+            var deseriliazeObject = JsonConvert.DeserializeObject<SampleDataModel>(message);
+            Console.WriteLine(JsonConvert.SerializeObject(deseriliazeObject));
+        }
+
+        public static void Consumer_Received_Sample_EventHandler(object sender, BasicDeliverEventArgs args)
+        {
+            var message = Encoding.UTF8.GetString(args.Body);
             var deseriliazeObject = JsonConvert.DeserializeObject<SampleDataModel>(message);
             Console.WriteLine(JsonConvert.SerializeObject(deseriliazeObject));
         }

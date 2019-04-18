@@ -4271,11 +4271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\htayfur\\source\\repos\\RabitMQSample\\Consumer\\_ConsumerApp.csproj",
+      "projectUniqueName": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq_helperServices\\Consumer\\_ConsumerApp.csproj",
       "projectName": "_ConsumerApp",
-      "projectPath": "C:\\Users\\htayfur\\source\\repos\\RabitMQSample\\Consumer\\_ConsumerApp.csproj",
+      "projectPath": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq_helperServices\\Consumer\\_ConsumerApp.csproj",
       "packagesPath": "C:\\Users\\htayfur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\htayfur\\source\\repos\\RabitMQSample\\Consumer\\obj\\",
+      "outputPath": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq_helperServices\\Consumer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4295,8 +4295,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\htayfur\\source\\repos\\RabitMQSample\\RabbitMQService\\RabbitMQService.csproj": {
-              "projectPath": "C:\\Users\\htayfur\\source\\repos\\RabitMQSample\\RabbitMQService\\RabbitMQService.csproj"
+            "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq_helperServices\\RabbitMQService\\RabbitMQService.csproj": {
+              "projectPath": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq_helperServices\\RabbitMQService\\RabbitMQService.csproj"
             }
           }
         }

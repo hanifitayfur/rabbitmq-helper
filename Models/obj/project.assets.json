@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Users\\htayfur\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\htayfur\\source\\repos\\RabitMQSample\\Models\\Models.csproj",
+      "projectUniqueName": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq_helperServices\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Users\\htayfur\\source\\repos\\RabitMQSample\\Models\\Models.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\htayfur\\source\\repos\\RabitMQSample\\Models\\obj\\",
+      "projectPath": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq_helperServices\\Models\\Models.csproj",
+      "packagesPath": "C:\\Users\\htayfur\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq_helperServices\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\htayfur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -705,6 +705,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "\\\\bhmdvwebp3\\NugetPackages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
