@@ -1,0 +1,12 @@
+C:\Users\htayfur\source\repos\RabitMQSample\RabbitMQService\bin\Debug\netcoreapp2.1\RabbitMQService.deps.json
+C:\Users\htayfur\source\repos\RabitMQSample\RabbitMQService\bin\Debug\netcoreapp2.1\RabbitMQService.dll
+C:\Users\htayfur\source\repos\RabitMQSample\RabbitMQService\obj\Debug\netcoreapp2.1\RabbitMQService.csprojAssemblyReference.cache
+C:\Users\htayfur\source\repos\RabitMQSample\RabbitMQService\obj\Debug\netcoreapp2.1\RabbitMQService.csproj.CoreCompileInputs.cache
+C:\Users\htayfur\source\repos\RabitMQSample\RabbitMQService\obj\Debug\netcoreapp2.1\RabbitMQService.AssemblyInfoInputs.cache
+C:\Users\htayfur\source\repos\RabitMQSample\RabbitMQService\obj\Debug\netcoreapp2.1\RabbitMQService.AssemblyInfo.cs
+C:\Users\htayfur\source\repos\RabitMQSample\RabbitMQService\bin\Debug\netcoreapp2.1\RabbitMQService.pdb
+C:\Users\htayfur\source\repos\RabitMQSample\RabbitMQService\obj\Debug\netcoreapp2.1\RabbitMQService.dll
+C:\Users\htayfur\source\repos\RabitMQSample\RabbitMQService\obj\Debug\netcoreapp2.1\RabbitMQService.pdb
+C:\Users\htayfur\source\repos\RabitMQSample\RabbitMQService\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\htayfur\source\repos\RabitMQSample\RabbitMQService\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\htayfur\source\repos\RabitMQSample\RabbitMQService\obj\Debug\netcoreapp2.1\RabbitMQService.csproj.CopyComplete

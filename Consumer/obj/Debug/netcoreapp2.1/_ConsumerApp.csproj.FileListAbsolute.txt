@@ -1,0 +1,16 @@
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\bin\Debug\netcoreapp2.1\_ConsumerApp.deps.json
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\bin\Debug\netcoreapp2.1\_ConsumerApp.runtimeconfig.json
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\bin\Debug\netcoreapp2.1\_ConsumerApp.runtimeconfig.dev.json
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\bin\Debug\netcoreapp2.1\_ConsumerApp.dll
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\bin\Debug\netcoreapp2.1\_ConsumerApp.pdb
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\obj\Debug\netcoreapp2.1\_ConsumerApp.csproj.CoreCompileInputs.cache
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\obj\Debug\netcoreapp2.1\_ConsumerApp.AssemblyInfoInputs.cache
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\obj\Debug\netcoreapp2.1\_ConsumerApp.AssemblyInfo.cs
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\obj\Debug\netcoreapp2.1\_ConsumerApp.dll
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\obj\Debug\netcoreapp2.1\_ConsumerApp.pdb
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\bin\Debug\netcoreapp2.1\RabbitMQService.dll
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\bin\Debug\netcoreapp2.1\RabbitMQService.pdb
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\obj\Debug\netcoreapp2.1\_ConsumerApp.csprojAssemblyReference.cache
+C:\Users\htayfur\source\repos\RabitMQSample\Consumer\obj\Debug\netcoreapp2.1\_ConsumerApp.csproj.CopyComplete

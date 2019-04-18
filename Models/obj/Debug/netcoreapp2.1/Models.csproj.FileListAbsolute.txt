@@ -1,0 +1,9 @@
+C:\Users\htayfur\source\repos\RabitMQSample\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+C:\Users\htayfur\source\repos\RabitMQSample\Models\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\htayfur\source\repos\RabitMQSample\Models\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\htayfur\source\repos\RabitMQSample\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\htayfur\source\repos\RabitMQSample\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+C:\Users\htayfur\source\repos\RabitMQSample\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+C:\Users\htayfur\source\repos\RabitMQSample\Models\obj\Debug\netcoreapp2.1\Models.dll
+C:\Users\htayfur\source\repos\RabitMQSample\Models\obj\Debug\netcoreapp2.1\Models.pdb
+C:\Users\htayfur\source\repos\RabitMQSample\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache
