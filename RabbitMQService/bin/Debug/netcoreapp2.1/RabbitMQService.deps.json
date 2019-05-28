@@ -684,14 +684,14 @@
     "Newtonsoft.Json/12.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-jmVyoEyk0In8r+AObYQyFKVFm7uSRzE0XSHSbEtBJcZDMV6DqJoyB4FLcHwprPVhAh826so0db3DIKXVnpGoPA==",
+      "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
       "path": "newtonsoft.json/12.0.1",
       "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
     },
     "RabbitMQ.Client/5.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-6TzFS2nlpiqKX7joVM+ViYY+rtHdYLnXkv2aNsXXJXlEbDhgf1iNBUgelPlgQUpKWoL9yUfMpTroNgEljB2HuA==",
+      "sha512": "sha512-oMXzDw2NLDHYlAYVJs5AHZDGkTsuzmaAPNfHjgkPqq3VfnxAXgsJ643ts6xsdXJftpwPbDAwN5YP65lHm+MiNg==",
       "path": "rabbitmq.client/5.1.0",
       "hashPath": "rabbitmq.client.5.1.0.nupkg.sha512"
     },
