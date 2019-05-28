@@ -5,7 +5,7 @@ namespace RabbitMQService
 {
     public class RabbitConnection : IRabbitConnection
     {
-        // test
+        // test    
         private readonly string _hostName = "localhost";
         private readonly int _port = 8081;
 
